@@ -3,7 +3,7 @@
 Thomas Danguilhen\
 Emil Răducanu\
 Céline Goncalves\
-Arthur Sarmini Det Satouf
+Arthur Satouf
 
 # Exécution du projet 
 - créer un notebook 
