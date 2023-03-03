@@ -1,9 +1,4 @@
 # Deep Learning 
-**Auteurs**\
-Thomas Danguilhen\
-Emil Răducanu\
-Céline Goncalves\
-Arthur Satouf
 
 # Exécution du projet 
 - créer un notebook 
